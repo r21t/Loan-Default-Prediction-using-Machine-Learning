@@ -1,0 +1,2 @@
+# Loan-Default-Prediction-using-Machine-Learning
+One of the primary sources of income of a financial institution is through interests of loaned money. It’s quite tricky for a financial institution to sanction loans because they need to ensure that they get back the loaned amount along with the interests. The banks need a method where they can predict and ensure whether one can pay that amount back. To tackle such a reallife problem, we are building a machine learning model that can predict this with ease.
